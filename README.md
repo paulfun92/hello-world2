@@ -1,4 +1,6 @@
 # hello-world2
-This is a test program
-We now edit readme
-----
+====================
+
+Hi humans!
+Paul here. This is a test to check how commitments work. 
+See you.
